@@ -1,5 +1,8 @@
 module DrawingInferences
 
-# Write your package code here.
+export named_categorical
+
+using Gen
+include("distributions.jl")
 
 end
