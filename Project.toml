@@ -1,7 +1,10 @@
+authors = ["Marius Furter"]
 name = "DrawingInferences"
 uuid = "8bbfcb55-b00a-4584-9d90-4bfd50a3e99a"
-authors = ["Marius Furter"]
-version = "1.0.0-DEV"
+version = "1.0.1-DEV"
+
+[deps]
+Gen = "ea4f424c-a589-11e8-07c0-fd5c91b9da4a"
 
 [compat]
 julia = "1.6.7"
