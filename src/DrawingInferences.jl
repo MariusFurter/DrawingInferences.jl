@@ -1,6 +1,6 @@
 module DrawingInferences
 
-export named_categorical
+export choice_map, choice_list
 
 using Gen
 include("distributions.jl")
